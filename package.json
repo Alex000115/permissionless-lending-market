@@ -1,0 +1,12 @@
+{
+  "name": "permissionless-lending-market",
+  "version": "1.0.0",
+  "description": "Over-collateralized Lending and Borrowing Engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "scripts": {
+    "compile": "hardhat compile"
+  }
+}
